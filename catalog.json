@@ -1,0 +1,51 @@
+{
+  "//": "BR Item Shop Config",
+  "daily1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_261_Athena_Commando_M_RaptorArcticCamo"
+    ],
+    "price": 2000
+  },
+  "daily2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_024_Athena_Commando_F"
+    ],
+    "price": 1200
+  },
+  "daily3": {
+    "itemGrants": [
+      "AthenaDance:EID_LazyShuffle"
+    ],
+    "price": 500
+  },
+  "daily4": {
+    "itemGrants": [
+      "AthenaBackpack:BID_177_NautilusFemale"
+    ],
+    "price": 1500
+  },
+  "daily5": {
+    "itemGrants": [
+      "AthenaGlider:Glider_ID_139_EarthDay"
+    ],
+    "price": 500
+  },
+  "daily6": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_ID_164_DragonNinja"
+    ],
+    "price": 1200
+  },
+  "featured1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_201_Athena_Commando_M_DesertOps"
+    ],
+    "price": 800
+  },
+  "featured2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_297_Athena_Commando_F_Math"
+    ],
+    "price": 1200
+  }
+}
